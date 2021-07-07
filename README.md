@@ -18,3 +18,4 @@ contains solutions of CTF challenges from TryHackMe and HackTheBox
  * [Blocky](https://github.com/AgentSKY99/CTF/blob/main/HackTheBox/Blocky.md)
  * [Optimum](https://github.com/AgentSKY99/CTF/blob/main/HackTheBox/Optimum.md)
  * [Shocker](https://github.com/AgentSKY99/CTF/blob/main/HackTheBox/Shocker.md)
+ * [Bank](https://github.com/AgentSKY99/CTF/blob/main/HackTheBox/Bank.md)
