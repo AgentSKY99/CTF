@@ -20,3 +20,4 @@ contains solutions of CTF challenges from TryHackMe and HackTheBox
  * [Shocker](https://github.com/AgentSKY99/CTF/blob/main/HackTheBox/Shocker.md)
  * [Bank](https://github.com/AgentSKY99/CTF/blob/main/HackTheBox/Bank.md)
  * [Mirai](https://github.com/AgentSKY99/CTF/blob/main/HackTheBox/Mirai.md)
+ * [Bashed](https://github.com/AgentSKY99/CTF/blob/main/HackTheBox/Bashed.md)
