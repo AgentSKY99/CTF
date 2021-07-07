@@ -21,3 +21,4 @@ contains solutions of CTF challenges from TryHackMe and HackTheBox
  * [Bank](https://github.com/AgentSKY99/CTF/blob/main/HackTheBox/Bank.md)
  * [Mirai](https://github.com/AgentSKY99/CTF/blob/main/HackTheBox/Mirai.md)
  * [Bashed](https://github.com/AgentSKY99/CTF/blob/main/HackTheBox/Bashed.md)
+ * [Nibbles](https://github.com/AgentSKY99/CTF/blob/main/HackTheBox/Nibbles.md)
