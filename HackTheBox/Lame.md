@@ -1,5 +1,22 @@
 # Lame 
 
+## Project structure
+```
+| Backend
+   - DBConfig.php
+   - Connection.php
+| Frontend
+   | css
+      - index.css
+   | html
+      - index.html
+   | js
+      - common.js
+      - email.js
+      - main.js
+index.php
+```
+
 ## Nmap Scanning
 
 ```
